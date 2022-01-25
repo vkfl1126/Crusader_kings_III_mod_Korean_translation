@@ -1,0 +1,84 @@
+﻿l_korean:
+  # Tooltip of Seljuks being given special CB
+  seljuk_invasion_cb_gain_tooltip:0 "소아시아 전역에 대한 셀주크의 침공!"
+
+  # Localization for Seljuks after successfully invading Armenia
+  seljuk_invasion_events.0001.title:0 "아르메니아에서의 승리!"
+  seljuk_invasion_events.0001.desc:0 "전투에서 비잔티움 제국을 물리치고 아르메니아에 대한 통제력을 확립했다. 우리는 아르메니아 원주민 신앙을 어떻게 할지 결정해야만 한다. 아르메니아에서 알라의 인도자 역할을 해야 할까, 아니면 그들의 종교적 자유를 용인해야 할까?\n\n한편, 비잔티움인들은 그 어느때보다 쇠약해져 있습니다. 그들이 통제하고 있는 아나톨리아는 쇠약해졌고 우리는 그 젖과 꿀이 흐르는 땅을 손쉽게 차지할 수 있을 것만 같습니다. 병력을 회복하기만 하면 소아시아의 나머지도 우리의 손에 들어올 것입니다!"
+  seljuk_invasion_events.0001.a:0 "진군하라!"
+
+  # Localization for Byzantines after failing to defend Armenia
+  seljuk_invasion_events.0002.title:0 "패배"
+  seljuk_invasion_events.0002.desc:0 "셀주크 놈들이 아르메니아를 지배하고 있는 가운데, 간신히 통제하고 있는 소아시아의 나머지 지역도 상황이 좋지 않다. 투르크인들은 이제 비잔티움 제국의 심장부에 눈독을 들이고 있다. 용병들이 도망치고 사기가 바닥난 상황에서 어떻게 그들을 방어할 수 있을까?"
+  seljuk_invasion_events.0002.a:0 "재앙이다!"
+
+  # Localization for event in which Seljuk Emperor gets help from Suleyman ibn Qutulmish
+  seljuk_invasion_events.0003.title:0 "새로운 동맹"
+  seljuk_invasion_events.0003.desc:0 "요청하지는 않았으나 먼 친척인 술레이만 이븐 쿠탈미쉬는 우리가 소아시아를 정복할 수 있도록 돕겠다고 주장해왔다. 술레이만이 합류한다면 비잔티움 제국은 완전히 기세를 잃고 무너지겠지만, 이러한 제안을 하는 술레이만의 동기가 의심스럽다..."
+  seljuk_invasion_events.0003.a:0 "내가 그를 지켜볼 것이다."
+  seljuk_invasion_suleyman_join_tooltip:0 "술레이만은 소아시아 침공에 10000명의 병력과 함께 합류할 것입니다."
+
+  # Localization for event in which Seljuk Emperor gets help from Suleyman ibn Qutulmish (Suleyman's event)
+  seljuk_invasion_events.0004.title:0 "기회"
+  seljuk_invasion_events.0004.desc:0 "셀주크 제국이 소아시아를 침공하자 그와 합류해야겠다고 결정했다. 이 침공은 내 뒤에서 계속 성장하는 주인과 함께 내 권력 기반은 탄탄히 할 수 있는 좋은 기회이다."
+  seljuk_invasion_events.0004.a:0 "영광을 위해!"
+
+  # Localization for event in which Byzantines are notified of new war
+  seljuk_invasion_events.0005.title:0 "재개된 셀주크 침공"
+  seljuk_invasion_events.0005.desc:0 "아르메니아 정복이 우리를 완전히 약화시키지는 못했으나 투르크 놈들은 이제 소아시아 전체를 통제하려고 달려든다! 투르크 놈들은 우리가 통제하는 전 지역을 정복하기 위해서 수만 명의 군인을 양성해왔던 것으로 보인다. 위험을 감안했을때 이번에는 저번 침공만큼 쉽게 내어주지는 않겠지만 최악의 상황이 그려지고 있다... 이러한 암울한 상황 속에서 우리는 어떤 결정을 내려야 할까?"
+  seljuk_invasion_events.0005.a:0 "동맹을 불러라, 당장!"
+
+  # Localization for event in which Seljuk Emperor is notified of Suleiman's takeover of Rum
+  seljuk_invasion_events.0006.title:0 "배신!"
+  seljuk_invasion_events.0006.desc:0 "비잔티움 제국과의 전쟁에서 동맹을 자처했던 술레이만 이븐 쿠탈미쉬가 우리를 배신하고 룸의 술탄으로 자리잡았다! 그의 배반에 나는 얼마나 분노했는지 말로 다 표현할 수 없을 정도다.\n\n그래도, 내 휘하의 에미르들은 술레이만이 부당함을 알고 있고 내가 그를 즉시 폐위시킬 수 있는 모든 권리가 있다고 확신했다. 이 배신은 잊지 않을 것이다!"
+  seljuk_invasion_events.0006.a:0 "그의 시간이 왔다."
+  seljuk_invasion_suleyman_steal_tooltip:0 "술레이만 이븐 쿠탈미쉬는 룸 전역을 통제할 것입니다."
+
+  # Localization for event in which Suleiman is notified of his own takeover of Rum
+  seljuk_invasion_events.0007.title:0 "놀라운 성공!"
+  seljuk_invasion_events.0007.desc:0 "셀주크 제국의 군대가 소아시아로 진군하여 비잔티움 제국의 지배권을 이양받기 전에, 나는 그 지역을 장악하였다. 그는 이러한 조치에 분개했을 것이고 조치에 대한 보복을 막을 준비를 해야만 한다. 다가오는 갈등에 대비해야 한다!"
+  seljuk_invasion_events.0007.a:0 "승리!"
+
+  # Localization for event in which Byzantine Emperor destroys Rum
+  seljuk_invasion_events.0008.title:0 "최후의 승리"
+  seljuk_invasion_events.0008.desc:0 "아르메니아와 안티오크의 정복을 마지막으로 11세기 말 투르크 놈들이 부당하게 침공해 장악한 모든 영토를 되찾았다. 오늘은 비잔티움 제국이 다시 태어난 날로 역사에 길이 남을 것이다!"
+  seljuk_invasion_events.0008.a:0 "제국은 회복되었다!"
+  destroy_rum_tooltip:0 "룸 술탄국이 멸망하다"
+  destroyed_rum_opinion:0 "소아시아 수복"
+
+  # "Localization" for event in which AI is forced to declare war on Byzantines (hidden from player)
+  seljuk_invasion_events.1000.title:0 "전쟁이다!"
+  seljuk_invasion_events.1000.desc:0 "비잔티움 제국 최악!"
+  seljuk_invasion_events.1000.a:0 "좋아!"
+
+  # Localization for Seljuk Invasion CBs (copied and pasted from Laudibiliter and modified)
+  seljuk_invasion_conquest_cb:0 "셀주크 침공"
+  SELJUK_INVASION_CONQUEST_CB_NAME:1 "소아시아 점령"
+  SELJUK_INVASION_CONQUEST_CB_SPECIFIC_NAME:1 "소아시아 침공"
+  SELJUK_INVASION_CONQUEST_WAR_NAME:1 "소아시아를 목표로 하는 셀주크 침공"
+  SELJUK_INVASION_CONQUEST_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+  seljuk_invasion_conquest_cb_victory_desc_attacker:0 "[defender.GetShortUIName]의 소아시아 작위들을 모두 획득합니다."
+  seljuk_invasion_conquest_cb_victory_desc_defender:0 "[attacker.GetShortUIName|U]이 당신의 소아시아 작위들을 모두 획득합니다."
+  seljuk_invasion_conquest_cb_victory_desc:0 "[attacker.GetShortUIName|U]이 [defender.GetShortUIName]의 소아시아 작위들을 모두 획득합니다."
+  seljuk_invasion_conquest_cb_white_peace_desc_defender:0 "소유권을 두고 다투던 작위를 유지합니다."
+  seljuk_invasion_conquest_cb_white_peace_desc:0 "[defender.GetShortUIName|U]이 소유권을 두고 다투던 작위를 유지합니다."
+  seljuk_invasion_conquest_cb_defeat_desc_defender:0 "소유권을 두고 다투던 작위를 유지합니다."
+  seljuk_invasion_conquest_cb_defeat_desc_attacker:0 "[defender.GetShortUIName|U]이 소유권을 두고 다투던 작위를 유지합니다. 당신에 대한 모든 [factions|E]은 그들의 [discontent|E]를 증가시킵니다."
+  seljuk_invasion_conquest_cb_defeat_desc:0 "[defender.GetShortUIName|U]이 소유권을 두고 다투던 작위를 유지합니다."
+
+  # Localization for modifier that gives Seljuk Invasion CB
+  seljuk_invasion_modifier:0 "침공에 대한 대비"
+  seljuk_invasion_modifier_desc:0 "이 왕조는 소아시아 전역을 침공할 준비를 하고 있습니다!"
+
+  # Turkish immigrants to Rum
+  turkish_immigrants:0 "투르크 이민자"
+  turkish_immigrants_desc:0 "최근의 정복의 결과로 투르크 이민자들이 소아시아로 이주하고 있습니다."
+  STEWARD_PROMOTE_CULTURE_TURKISH_IMMIGRANTS:0 "투르크 이민자"
+  COURT_CHAPLAIN_CONVERT_FAITH_TURKISH_IMMIGRANTS:0 "투르크 이민자"
+
+  # Destroy Rum decision (for Byzantines)
+  custom_rum:0 "룸"
+  destroy_rum_title:0 "룸의 멸망"
+  destroy_rum_desc:0 "오랜 기간 아나톨리아는 투르크 놈들의 압제에 고통받아왔습니다. 하지만, 최근의 승리로 마침내 아나톨리아를 수복하였고 다시금 소아시아에 대한 정당한 지배권을 되찾는데 성공했습니다!"
+  destroy_rum_tooltip:0 "세계가 소아시아에 대한 우리의 정당한 통치를 인정할 때가 왔습니다."
+  destroy_rum_confirm:0 "승리의 나팔을 불어라!"
