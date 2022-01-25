@@ -1,2 +1,2 @@
 ﻿l_korean:
- event_window_widget_name_child_random_saint_name: "A [Character.GetFaith.GetAdjectiveNoTooltip] Saint's name"
+ event_window_widget_name_child_random_saint_name: "[Character.GetFaith.GetAdjectiveNoTooltip] 성자의 이름"

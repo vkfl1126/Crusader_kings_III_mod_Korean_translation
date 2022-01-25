@@ -1,9 +1,9 @@
 ﻿ l_korean:
  
   #Special Traits KoH
-  trait_koh_cardinal:0 "Cardinal"
-  cardinal_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is an appointed member of the College of Cardinals. By virtue of his faith, or perhaps other qualities, [ROOT.GetCharacter.GetFirstNameNoTooltip] has been recognized by the Pope as a vital member of the clergy and has a good chance at becoming Pope of the Roman Catholic Church."
-  trait_beatified:0 "Beatified"
-  trait_pope_trait:0 "Pope"
-  trait_pope_trait_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was the head of the Roman Catholic Church and the head of the Catholic Faith, and now rests with the lord."
-  trait_beatified_desc:0"[ROOT.GetCharacter.GetFirstNameNoTooltip] was beatified by the church, blessed."
+  trait_koh_cardinal:0 "추기경"
+  cardinal_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]는 추기경단 단원으로 임명되었습니다. 그의 신앙이나 아마도 다른 자질 덕분에 [ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 교황에 의해 성직자의 중요한 구성원으로 인정되었으며 로마 가톨릭 교회의 교황이 될 좋은 기회를 얻었습니다."
+  trait_beatified:0 "시복됨"
+  trait_pope_trait:0 "교황"
+  trait_pope_trait_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은 로마 카톨릭 교회의 수장이자 카톨릭 신앙의 수장이었고 지금은 주님과 함께 있습니다."
+  trait_beatified_desc:0"[ROOT.GetCharacter.GetFirstNameNoTooltip]은 교회에 의해 시복되었고 축복받았습니다."
