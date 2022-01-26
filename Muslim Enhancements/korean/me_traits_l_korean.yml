@@ -1,0 +1,20 @@
+﻿l_korean:
+ trait_quraysh:0 "쿠라이시"
+ trait_quraysh_desc:0 "쿠라이시는 사이드와 달리 예언자 무함마드의 직계 후손은 아니지만 무함마드의 출신 부족을 뜻하고, 훗날 이슬람 제국에서 수많은 귀족을 형성했습니다."
+ trait_quraysh_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) [ROOT.GetCharacter.GetHerHis] 핏줄을 통해 흐르는 쿠라이시의 피를 가지고 있습니다."
+
+ trait_miknasa:0 "미크나사"
+ trait_miknasa_desc:0 "미크나사는 고대 미크나사 부족의 피를 물려받은 자들입니다. 이 피를 물려받은 구성원은 베르베르 왕족을 자처합니다."
+ trait_miknasa_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 고대 베르베르 미크나사 부족의 후손입니다."
+
+ trait_masmudi:0 "마스무다"
+ trait_masmudi_desc:0 "마스무다는 고대 마스무다 부족의 피를 물려받은 자들입니다. 이 피를 물려받은 구성원은 베르베르의 번영과 부를 상징합니다."
+ trait_masmudi_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 고대 베르베르 마스무다 부족의 후손입니다."
+
+ trait_sanhaja:0 "산하자"
+ trait_sanhaja_desc:0 "산하자는 고대 산하자 부족의 피를 물려받은 자들입니다. 이 피를 물려받은 구성원은 베르베르 사상과 문화의 대표를 자처합니다."
+ trait_sanhaja_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 고대 베르베르 산하자 부족의 후손입니다."
+
+ trait_zenata:0 "제나타"
+ trait_zenata_desc:0 "제나타는 고대 제나타 부족의 피를 물려받은 자들입니다. 이 피를 물려받은 구성원은 베르베르의 투지와 인내를  상징합니다."
+ trait_zenata_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 고대 베르베르 제나타 부족의 후손입니다."

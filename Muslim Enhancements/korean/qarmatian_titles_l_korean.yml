@@ -1,0 +1,48 @@
+﻿l_korean:
+ d_isfahani:0 "이스파한 마흐디 칼리프국"
+ d_isfahani_adj:0 "이스파한"
+ qarmatian_religious_head_title:0 "마흐디 칼리프국"
+ qarmatian_religious_head_title_name:0 "마흐디 칼리프국"
+
+ d_barghawata:0 "바르가와타 이맘국"
+ d_barghawata_adj:0 "바르가와타 이맘국"
+ barghawata_religious_head_title:0 "나비"
+ barghawata_religious_head_title_name:0 "예언적 이맘국"
+ 
+ d_zaydi:0 "자이드 시아파 이맘국"
+ d_zaydi_adj:0 "자이드"
+ zayidi_religious_head_title:0 "이맘"
+ zayidi_religious_head_title_name:0 "자이드 이맘국"
+
+ d_alawi:0 "알라위 왕조"
+ d_alawi_adj:0 "알라위"
+ alawi_religious_head_title:0 "이맘"
+ alawi_religious_head_title_name:0 "알라위 이맘국"
+
+ d_ishaqiya:0 "이샤키 왕조"
+ d_ishaqiya:0 "이샤키"
+ ishaqiya_religious_head_title:0 "이맘"
+ ishaqiya_religious_head_title_name:0 "이샤키 이맘국"
+
+ d_imami:0 "12 시아 이맘국"
+ d_imami_adj:0 "12이맘파"
+ imami_religious_head_title:0 "이맘"
+ imami_religious_head_title_name:0 "12이맘국"
+
+ d_ibadi:0 "이바디 이맘국"
+ d_ibadi_adj:0 "이바디"
+ ibadi_religious_head_title:0 "이맘"
+ ibadi_religious_head_title_name:0 "이바디 이맘국"
+
+ d_wahbiya:0 "이바디 와하비 이맘국"
+ d_wahbiya_adj:0 "와하비 이맘국"
+ wahbiya_religious_head_title:0 "이맘"
+ wahbiya_religious_head_title_name:0 "이바디 와하비 이맘국"
+
+ d_nukkari:0 "누카리 연합"
+ d_nukkari_adj:0 "누카리"
+ nukkari_religious_head_title:0 "이맘"
+ nukkari_religious_head_title_name:0 "누카리 연합"
+
+ d_hashashin:0 "알라무트"
+ d_hashashin:0 "하샤신"

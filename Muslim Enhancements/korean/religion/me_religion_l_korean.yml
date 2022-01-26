@@ -1,0 +1,62 @@
+﻿l_korean:
+ #Holy Sites
+ holy_site_karbala_name:0 "카르발라"
+ holy_site_karbala_effect_name:0 "From [holy_site|E] #weak ($holy_site_karbala_name$)#!"
+ holy_site_arrajan_name:0 "아라잔"
+ holy_site_arrajan_effect_name:0 "From [holy_site|E] #weak ($holy_site_arrajan_name$)#!"
+ holy_site_isfahan_name:0 "이스파한"
+ holy_site_isfahan_effect_name:0 "From [holy_site|E] #weak ($holy_site_isfahan_name$)#!"
+
+ #Isfahani
+ isfahani:0 "이스파한파"
+ isfahani_adj:0 "이스파한파"
+ isfahani_adherent:0 "이스파한파 신도"
+ isfahani_adherent_plural:0 "이스파한파 신도"
+ isfahani_desc:0 "아불 파들 알 이스파하니가 마흐디 칼리프로 재위할 동안 나타난 조로아스터 종말론 종파입니다 . 이 교파는 이슬람교와 칼리프들에 욕을 퍼부은 것으로, 또한 저명한 카르마티아 귀족들을 대량 학살한 것으로 잘 알려져 있습니다."
+ 
+ #Wahbiya
+ wahbiya:0 "와하비파"
+ wahbiya_adj:0 "와하비파"
+ wahbiya_adherent:0 "와하비파 신도"
+ wahbiya_adherent_plural:0 "와하비파 신도"
+ wahbiya_desc:0 "와하비파는 루스탐 왕조가 이맘 압둘 와하브 루스탐의 이름에서 따왔고 또한, 그를 이바디교의 정당한 이맘이라고 여기는 이바디 이슬람교의 한 분파입니다."
+
+ #Basegame Zandaqa (Renamed to Ghulat)
+ muhammad_succession_zandaqa_doctrine_name:0 "굴라트"
+ muhammad_succession_zandaqa_doctrine_desc:0 "다른 이슬람교도들에 따르면 우리가 선지자의 가계를 옳게 추적하든 그렇지 않든 추적할 수 있지만, 우리의 믿음은 우리를 관계 없이 추방자로 표시합니다. 나와십이 우리를 굴라트(Ghulat)라고 부르도록 합시다. 우리는 단지 그들이 마땅히 받아야 할 완전한 존경심을 가진 예언자의 진정한 상속인을 제공할 뿐입니다!"
+ 
+ #New Zandaqa
+ muhammad_succession_zandaqa_moderate_doctrine_name:0 "잔다카"
+ muhammad_succession_zandaqa_moderate_doctrine_desc:0 "다른 무슬림들에 따르면 우리가 예언자의 가계를 정확하게 추적하거나 그렇지 않을 수도 있지만, 우리의 믿음은 다른 무슬림의 눈에는 위험할 정도로 이단에 가깝습니다. 종교적 소수자들의 표적이 되지 않도록 조심해야 합니다."
+ 
+ #Batriya
+ muhammad_succession_batriya_doctrine_name:0 "바트리야"
+ muhammad_succession_batriya_doctrine_desc:0 "W우리는 시아파와 수니파의 견해를 인정하고 위대한 알리보다 우월한 후계자는 없지만 수니파 칼리프는 이슬람을 전파하는 데 중요한 역할을 했기 때문에 합법적인 것으로 인정되어야 한다고 주장합니다. 우리의 추론은 이슬람에서 가장 큰 분열 사이의 다리를 만드는 것을 목표로 합니다."
+
+ #Ithna Ash'ari
+ imami:0 "12이맘파"
+ imami_adj:0 "12이맘파"
+ imami_adherent:0 "12이맘파 신자"
+ imami_adherent_plural:0 "12이맘파 신자"
+ imami_desc:0 "Ithna '아샤리 또는 12이맘파로 알려진 이들은 예언자 무함마드의 영적, 정치적 후계자가 이맘 알리를 시작으로 하는 12명의 이맘이라고 믿습니다. 이 이맘들은 세속적인 욕망이 없으며 이슬람을 옹호하는 임무에서 최고의 책임을 지고 있습니다. 애쉬는 12대 이맘인 마흐디가 언젠가 지구로 돌아와 이 세상에 정의를 가져올 것이라고 믿습니다."
+
+ #Barghawata
+ barghawata:0 "바르가와타"
+ barghawata_adj:0 "바르가와타"
+ barghawata_adherent:0 "바르가와타 신자"
+ barghawata_adherent_plural:0 "바르가와타 신자"
+ barghawata_desc:0 "카리지트 교리와 지역 베르베르 문화의 혼합을 대표하는 바르가와타는 바르가와타 왕조가 이끄는 무리로, 바르가와타 신앙의 추종자들이 이슬람의 예언자라고 선언합니다."
+ 
+ #Majority Sunni
+ ashari:0 "아흘 알-순나"
+ ashari_adj:0 "수니"
+ ashari_adherent:0 "수니파 신자"
+ ashari_adherent_plural:0 "수니파 신자"
+ ashari_desc:0 "The term "아흘 알-순나는 가장 흔한 수니파의 형태를 포함합니다. 그것은 예언자 무함마드의 정당한 성공을 지시하는 교리로부터 탄생한 가장 널리 퍼진 이슬람 신앙입니다."
+
+ #Trika Shaivism (Kashmiri Shaivism)
+ trika_shaivism:0 "카슈미르 샤이비즘"
+ trika_shaivism_adj:0 "카슈미르 샤이비즘"
+ trika_shaivism_adherent:0 "카슈미르 샤이비즘 신자"
+ trika_shaivism_adherent_plural:0 "카슈미르 샤이비즘 신자"
+ trika_shaivism_desc:0 "단순히 카슈미르 샤이비즘(Kashmiri Shaivism)으로 알려진 트리카 샤이비즘(Trika Shaivism)은 카슈미르 지역에서 기원한 힌두교의 한 종파이며 비이원주의에 특히 중점을 둡니다. 트리카 샤이비스트는 말리니비자요타라 탄트라를 가장 중요한 신학 필사본 중 하나로 간주하여 따릅니다."

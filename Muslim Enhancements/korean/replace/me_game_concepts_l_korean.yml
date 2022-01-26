@@ -1,0 +1,7 @@
+﻿l_korean: 
+ game_concept_iqta:0 "이크타"
+ game_concept_iqta_government:0 "이크타 정부"
+ game_concept_iqta_desc:0 "이크타 [government_form|E]에 따라, [liege|E]는 그들의 [vassal|E][land|E]에게 봉신과 통치자 사이의 개인[iqta_contract|E]에 의해 규제되는 [levies|E]과 [taxes|E]의 대가로 통치권을 부여합니다."
+ game_concept_iqta_contract:0 "이크타 계약"
+ game_concept_iqta_contracts:0 "이크타 계약"
+ game_concept_iqta_contract_desc:1 "$game_concept_iqta_contract$는 [iqta|E] [vassal|E]와 [liege|E] 사이의 [obligations|E]를 지정합니다. 그것은 각 종속국들이 그들의 의무를 개별적으로 협상할 수 있게 한다. 더욱이, 서로 다른 [신앙|E]의 바살은 많은 [병사|E]를 제공할 필요는 없지만, 제공할 경우 더 높은 [세금|E]에서 면제될 수 있습니다.#V $special_contract_iqta_grant_waqf_short$#!, #V $special_contract_iqta_free_short$#! 및 #V $special_cont_thughur_short$#!과 같은 \n특약도 사용할 수 있습니다."

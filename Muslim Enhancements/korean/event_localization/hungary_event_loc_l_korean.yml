@@ -1,0 +1,9 @@
+﻿ l_korean:
+ muslim_enhancements.0001.t:0 "새출발"
+ muslim_enhancements.0001.desc:0 "우리가 카르파티아 산맥을 넘어 헝가리 평원에 다다랐을 때, 아랍인 선지자의 신앙에 대해 가르치는 투르크 부족민 뵈쇠르메니 또한 연방에 참여하여 우리를 따라왔다. 이 부족민들로 하여금 우리의 이름을 떨치고 이슬람 세계의 정착자, 상인, 군인들을 초대하게 한다면, 이교도의 바다 속에서 [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]에게는 이슬람의 보루가 될 사명이 주어지리라. 언젠가는, 다뉴브 강변의 [scoped_ruler.GetCapital.GetNameNoTierNoTooltip]이(가) 티그리스 강변의 바그다드에 버금갈 지도 모르지.\n\n 우리의 울라마로 삼을 학자와 법학자들을 초청하여 이슬람 교법과 관습을 도입한다면 [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]의 백성들도 [scoped_ruler.GetFaith.GetAdjective] 속에서 안정을 찾을지도 모른다."
+ muslim_enhancements.0001.a:0 "신은 위대하시다!"
+ muslim_enhancements.0002.t:0 "새로운 정착자들"
+ muslim_enhancements.0002.desc.vassals:0 "[scoped_ruler.GetTitledFirstName]은 이슬람 세계에서 온 해외 정착자들을 환영하기로 결정했다.\n\n[scoped_ruler.GetSheHe|U]는 새 정착자들을 받아들임으로써 인구와 무역을 늘릴 생각이라고 한다."
+ muslim_enhancements.0002.desc.others:1 "[scoped_ruler.GetTitledFirstName]은 이슬람 세계에서 온 해외 정착자들을 [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]에 받아들이기로 결정했다. .\n\n[scoped_ruler.GetSheHe|U]는 새 정착자들을 받아들임으로써 [scoped_ruler.GetPrimaryTitle.GetNameNoTierNoTooltip]의 인구와 무역을 늘릴 생각이라고 한다."
+ muslim_enhancements.0002.a:0 "내 술은 못 뺏어가!"
+ muslim_enhancements.0002.b:0 "그렇군..."

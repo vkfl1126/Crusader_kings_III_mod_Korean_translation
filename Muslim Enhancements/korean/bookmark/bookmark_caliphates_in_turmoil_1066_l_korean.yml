@@ -1,0 +1,32 @@
+﻿l_korean:
+ bm_1066_caliphates_in_turmoil:1 "Caliphates in Turmoil"
+ bm_1066_caliphates_in_turmoil_desc:1 "The Islamic World is far from the unified realm it once was.\n\nWith the total collapse of the Pretender Caliphate of Cordoba and the Abbasid Caliph's position in Baghdad being reduced to just a symbolic figurehead with minimal political power, the Sunni World was left to bicker amongst themselves. Meanwhile the Ismaili state was crumbling from within as the incapable Caliph stood on the verge of a disastrous religious split.\n\n#bold Can you go against the tides of misfortune by uniting all Muslim lands into one and restore the glory of the Caliphates of past?#!"
+
+ #Mustansir
+ bookmark_mustansir:0 "Caliph Abu Tamim Ma'ad Al-Mustansir"
+ bookmark_mustansir_desc:0 "Abu Tamim Ma'ad al-Mustansir bi-llah, the eighth Fatimid Caliph, was one of the longest reigning rulers in Muslim history. Despite this, he was quite unremarkable, and a lot of the 'ruling' was left to his mother, and later military strongmen and officials, as Mustansir proved to be incapable of administering his realm. However despite the lack of conquests, the Ismaili Da'wah flourished as far as Persia.\n\n#bold Maybe now is the time to correct a lifetime of blunders, and prevent the Ismaili state from collapsing into chaos.#!"
+
+ bookmark_nizar:0 "$Prince Nizar al-Mustafa$"
+
+ #Mustali
+ bookmark_mustali:0 "Prince Abu'l-Qasim Ahmad Al-Musta'li"
+ bookmark_mustali_desc:0 "Abu'l-Qasim Ahmad ibn al-Mustansir al-Musta'li Billah is the youngest son of the reigning Fatimid Caliph. His brother-in-law Abu al-Qasim plans to install him as the next Caliph, bypassing the eldest son of Al-Mustansir, Abu Mansur Nizar.\n\n#bold Will you successfully take control of the Ismaili throne and stamp out all the heretics who dare call your Imamate illegitimate?!#"
+
+ #Al-Qaim
+ bookmark_caliph:0 "Caliph Al-Qa'im ibn Al-Qadir"
+ bookmark_caliph_desc:0 "Caliph Abu Ja'far Al-Qa'im ibn Al-Qadir, the 26th Caliph of the venerable Abbasid Dynasty was one of the rare latter day caliphs who was chosen without the interference of their more powerful neighbors. Despite this, the glory days of the Abbasids were past, and Al-Qa'im's reign continued to remain chaotic until the Great Seljuk Tughril pacified the region.\n\n#bold With Tughril dead and the Qarmatian heretics on the verge of collapse, maybe it is time for the Abbasids to rise again and take back their rightful place as the absolute political and spiritual rulers of the Muslim world!#!"
+
+ bookmark_caliph_alt_son:0 "$Muhammad Dhakirat$"
+ bookmark_caliph_alt_grandson:0 "$Al-Muqtadi$"
+
+ #Abbadid
+ bookmark_abbadid:0 "Emir Abbad II al-Mu'tadid"
+ bookmark_abbadid_desc:0 "Abbad al-Mu'tadid was quite the unforgettable person. A great patron of poetry, literature and wine, he was also feared for his poisons, trickery and general treachery. Not only did he kill his rebellious son with his own hands, he took over several of his neighboring kingdoms by inviting their chiefs to his fortress of Alcazar where he smothered them to death in a bath.\n\n#bold Fighting relentlessly against your neighbours, you have made your realm the strongest Taifa in Andalus. Keep going and soon you'll see your chests overflowing with the skulls of your enemies!#!"
+
+ bookmark_abbadid_son:0 "$Muhammad al-Mu'tamid$"
+
+ #Almoravid
+ bookmark_almoravid:0 "Emir Yusuf ibn Tashfin"
+ bookmark_almoravid_desc:0 "Yusuf ibn Tashfin Nasr al-Din, was the co-founder of the city of Marrakesh, and had assumed leadership of the Al-Murabitun in the north in 1061 after Abu Bakr ibn Umar himself gave it to him, along with his wife Zaynab. A very skilled military figure and a cunning politician, Yusuf's power and hold over the region grew exponentially. \n\n#bold Maybe it is time for you to take over the rest of the confederacy, so that the petty Taifas up north can be dealt with for once, or you could head south and spread the light of Islam further into the dark continent.#!"
+
+ bookmark_almoravid_abu_bakr:0 "$Abu Bakr ibn Umar$"

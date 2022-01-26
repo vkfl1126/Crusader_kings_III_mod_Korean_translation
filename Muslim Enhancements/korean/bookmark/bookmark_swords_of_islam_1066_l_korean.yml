@@ -1,0 +1,38 @@
+﻿l_korean:
+ bm_1066_swords_of_islam:1 "이슬람의 검"
+ bm_1066_swords_of_islam_desc:1 "중동에 전례없던 시대가 다다랐습니다. 북방에서 온 튀르크 정복자들은 그 지역을 다스리는 열강이 되었고, 이웃에게 눈독을 들이고 있습니다. 가즈니 왕조가 인도에서 힌두교를 몰아내기 위해 전의를 불태우고 있었으며, 부강한 셀주크 제국은 아나톨리아 전역에 침공을 준비하고 있으니, 제국들의 운명이 곧 이슬람의 운명이 될 것입니다. \n\n#bold 권력욕의 각축전 속에, 가문의 운명을 걸어 보시겠습니까?"
+
+ #Alp Arslan
+ bookmark_alp_arslan:0 "술탄 무함마드 이븐 다우드 차그리 알프 아르슬란"
+ bookmark_alp_arslan_desc:0 "영웅적인 사자 알프 아르슬란은, 숙부 투으릴이 죽자 위대한 셀주크 제국의 두번째 술탄이 되었습니다. 군사에 조예가 깊으며 어릴 적부터 전투 교육을 받아온 알프 아르슬란은, 1063년 왕위를 계승받으려던 숙부 쿠탈므쉬를 패배시키고 비잔티움의 영토로 눈을 돌렸습니다.\n\n#bold 로마인들에게 승리하는 것은 쉬운 일입니다. 하지만 방심하지 마십시오, 당신의 권좌를 탐하는 이들이 많습니다. #!\n\n주: 비잔티움 상대로 승리한다면 역사를 새로 쓸 다른 셀주크 인물로 플레이할 기회를 얻게 됩니다!"
+
+ bookmark_alp_arslan_alt_suleyman:0 "$슐레이만 이븐 쿠탈므쉬$"
+ bookmark_alp_arslan_alt_malikshah:0 "$말리크 샤$"
+
+ #Qawurd
+ bookmark_qawurd:0 "아타베그 카우루드 이븐 다우드 차그리"
+ bookmark_qawurd_desc:0 "카라 아르슬란 아흐마드 카우루드는 잘 알려지지 않은 알프 아르슬란의 이복형제입니다. 카우루드는 알프 아르슬란이 즉위하자 키르만을 통치하기 시작했습니다. 아들들과 함께 세력을 키워나가고 있는 카우루드에게, 셀주크의 정당한 통치권을 놓은 반란은 예정된 일 같아 보입니다.\n\n#bold 셀주크의 술탄이 되려면 인내해야 합니다. 군대를 기르고 동맹을 맺어, 술탄이 취약할 때를 노리십시오.#!"
+
+ bookmark_qawurd_alt_elder_son:0 "$투란 샤$"
+ bookmark_qawurd_alt_middle_son:0 "$아르슬란 샤$"
+
+ #Ibrahim Tamghach
+ bookmark_karakhanid:0 "Tamghach Khan Ibrahim ibn Nasr"
+ bookmark_karakhanid_desc:0 "Ibrahim ibn Nasr, famously known as Böritigin, was one of the greatest rulers of the Karakhanid Dynasty, which by now was split into the Eastern and Western Khanates. His early military campaigns were spent invading and raiding the Ghaznavids and other local Karakhanid rulers. After a brief stint as a tributary and commander of the Ghaznavid Sultan Maw'dud, Ibrahim declares himself independent and looks to the east...\n\n#bold With years of military experience behind you, can you forge a unified Karakhanid Khanate and restore your family's prestige and honor once again?#!"
+
+ bookmark_karakhanid_son:0 "$Shams-al-Mulk Nasr$"
+
+#Ghaznavids
+ bookmark_ghaznavid:0 "술탄 이브라힘 이븐 마스우드"
+ bookmark_ghaznavid_desc:0 "가즈니 왕조의 이브라힘 이븐 마스우드는 즉위 당시 마지막 가즈니가 남성으로, 위대했던 가즈니 가문은 참칭자 투으릴이 바르군드에서 학살을 벌이고 난 후 무릎을 꿇어야 했습니다. 이브라힘은 가즈니 가문의 중흥기를 이끌며 자신의 통치력을 증명했습니다. 이브라힘은 곧 구르를 복속시켰고 토압을 약탈하며 공격전을 벌였습니다. \n\n#bold 가즈니 왕조의 르네상스를 이끌었지만, 셀주크와의 화친은 금방이라도 깨어질 듯 하며, 힌두교도들도 복수의 칼을 갈고 있습니다...#!"
+
+ bookmark_ghaznavid_alt_son:0 "$마스우드 이븐 이브라힘$"
+
+ #Ghurids
+ bookmark_ghurid:0 "아미르 무함마드 이븐 아바스"
+ bookmark_ghurid_desc:0 "무함마드 이븐 아바스 구리는 아바스 이븐 시스가 가즈니의 1060년 이브라힘에게 폐위당한 후 작위를 승계받았습니다. 튀르크인들에게 충성을 다할 수 밖에 없었던 무함마드는, 구르 가문이 수백년동안 다스려온 이 영지의 미래가 불분명해 보였습니다.\n\n#bold 무함마드 이븐 아바스는 그리 특출나지 않습니다. 강력한 통치자의 봉신이며 그 능력도 평범하지요. 하지만 그는 살아남았고, 그의 가문은 카스피 해부터 벵갈까지 지배하게 될 것입니다.#!"
+
+ bookmark_ghurid_alt_son:0 "$하산 이븐 무함마드$"
+
+ #WARS
+ war_1066_Seljuk_Invasion:0 "셀주크의 소아시아 침공"

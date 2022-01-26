@@ -1,0 +1,11 @@
+﻿﻿l_korean:
+ succession_rights_iqta:2 "[Concept( 'succession', 'Succession Rights' )|B|color_black|U]"
+ succession_rights_iqta_non_dynastic:0 "비왕조"
+ succession_rights_iqta_non_dynastic_desc:1 "#flavor "
+ succession_rights_iqta_forced_partition:0 "강제 분할"
+ succession_rights_iqta_forced_partition_desc:2 "#emphasis #bold [vassal|E] Restrictions:#!#!\nThe [vassal|E] can not have any [succession_law|E] beyond Partition\nThe [vassal|E] switches their [succession_law|E] to Partition\nThe [vassal|E] pays #high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]%#! more [prestige|E] to change [laws|E]\n\n#flavor The [vassal|E] is forced to never have any other form of succession but Partition for their [realm|E]. The administrative hurdle of this also increases the [vassals] [law] costs by #high [EmptyScope.ScriptValue('succession_rights_contract_law_cost_tooltip')|0]%.#!#!"
+ succession_rights_iqta_normal:0 "와크프 계약"
+ succession_rights_iqta_normal_desc:2 "#flavor "
+ succession_rights_iqta_non_dynastic_short:0 "비왕조"
+ succession_rights_iqta_forced_partition_short:0 "강제 분할"
+ succession_rights_iqta_normal_short:0 "무제한"

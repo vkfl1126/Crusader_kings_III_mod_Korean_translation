@@ -1,0 +1,21 @@
+﻿l_korean:
+  #Court Imam approaches player character to ask if he wishes to try to become a hafiz
+  learning_theology_special.5000.t:0 "직선 경로"
+  learning_theology_special.5000.desc:0 "#여기에 설명을 쓰세요"
+  learning_theology_special.5000.accept:0 "#플레이어 캐릭터는 법원 이맘과 동의합니다."
+  learning_theology_special.5000.decline:0 "#플레이어 캐릭터가 거부"
+  
+  #Player character has difficulties with memorization
+  learning_theology_special.5001.title:0 "꿋꿋이 버티는 사람들"
+  learning_theology_special.5001.desc:0 "#desc"
+  learning_theology_special.5001.a:0 "#플레이어는 약간의 스트레스를 받지만 구절을 외울 수 있습니다. 원하는 경우 구절을 추가하십시오."
+  learning_theology_special.5001.b:0 "#플레이어의 두뇌가 크기 때문에 그는 그것을 쉽게 암기합니다. 여기에는 학자 특성이 있거나 높은 학습이 포함됩니다."
+  learning_theology_special.5001.c:0 "#플레이어가 구절을 암기하기에 너무 평이하거나 배짱이 부족합니다."
+  
+  #The court imam tests the player character
+  learning_theology_special.5002.t:0 ""
+  learning_theology_special.5002.desc:0 ""
+  learning_theology_special.5002.a:0 "#시련을 이겨내지만 성공한다."
+  learning_theology_special.5002.b:0 "#플레이어 캐릭터는 쉽게 통과했습니다."
+  learning_theology_special.5002.c:0 "#플레이어 캐릭터가 비참하게 실패하거나 포기합니다."
+  
